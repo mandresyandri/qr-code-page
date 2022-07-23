@@ -10,24 +10,46 @@
 
 /* My custom CSS */
 body {
-    background-color: hsl(0, 0%, 100%);
-    font-family: 'Roboto', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+img{
+    border-radius: 4%;
+}
+
+.qr-code {
+    padding: 10px;
 }
 
 .generalBox {
     text-align: center;
     background-color: hsl(0, 0%, 100%);
-    border-style: groove;
-    border-radius: 2%; /* Take a look of how to do thaat properly */ 
+    
+    /* Creating the box */ 
+    border-style: none;
+    border-radius: 5%; /* Take a look of how to do thaat properly */ 
+    width: 310px;
+
+    /* align the content center */ 
+    position: absolute;
+    top:10%;
+    left:0;
+    right:0;
+    margin:0 auto;
+}
+
+.textParagraph {
+    margin-bottom: 25px;
 }
 
 p {
     font-size: 15px;
     color: hsl(220, 15%, 55%);
-    
 }
 
 h3 {
     color: hsl(218, 44%, 22%);
     font-weight: bold;
+    font-size: large;
 }

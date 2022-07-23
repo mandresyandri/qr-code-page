@@ -10,8 +10,8 @@ The designs were created to the following widths:
 ## Colors
 
 - White: hsl(0, 0%, 100%) => Background color of the general box [OK]
-- Light gray: hsl(212, 45%, 89%) => Not the background 
-- Grayish blue: hsl(220, 15%, 55%) =>  
+- Light gray: hsl(212, 45%, 89%) => Body background color 
+- Grayish blue: hsl(220, 15%, 55%) 
 - Dark blue: hsl(218, 44%, 22%) => Color of the title font
 
 ## Typography
@@ -22,5 +22,5 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit) [OK]
 - Weights: 400, 700
