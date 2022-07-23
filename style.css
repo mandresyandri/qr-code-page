@@ -1,0 +1,33 @@
+/* The CSS from frontend mentor */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+/* My custom CSS */
+body {
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Roboto', sans-serif;
+}
+
+.generalBox {
+    text-align: center;
+    background-color: hsl(0, 0%, 100%);
+    border-style: groove;
+    border-radius: 2%; /* Take a look of how to do thaat properly */ 
+}
+
+p {
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+    
+}
+
+h3 {
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
+}
