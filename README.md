@@ -16,7 +16,7 @@ I'm playing with several languages :
 ## Why this repo ? 
 Now, I'm building my own portefolio. Now, I rush all challenge available on [FrontendMentor](https://www.frontendmentor.io/). <br>
 
-Every week, I'll push frontend challenges and I'll call it <b>Challenge of the week</h3>
+Every week, I'll push frontend challenges and I'll call this routine <b>Challenge of the week</b>
 
 In this repo I upload all file of [this challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) of Frontend Mentor. <br>
 It's a part of my portefolio and this challenge is hosted in [vercel](https://vercel.com/)
